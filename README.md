@@ -4,26 +4,20 @@
 ---
 
 💡 **About Me**  
-I'm deeply interested in how businesses grow, spend, and succeed — and I love bringing clarity to that story through numbers. I'm currently building hands-on projects in **financial analysis**, **corporate finance**, and **data visualization**, all using tools that drive real-world decision making: **Power BI** and **Excel**.
+I'm deeply interested in how businesses grow, spend, and succeed and I love bringing clarity to that story through numbers. I'm currently building hands-on projects in **financial analysis**, **corporate finance**, and **data visualization**, all using tools that drive real-world decision making: **Power BI** and **Excel**.
 
 ---
 
 📊 **Finance Projects I'm Working On**
-- **📈 KPI Dashboard for a Retail Business**  
+- **KPI Dashboard for a Retail Business**  
   Visualizing sales, margins, and operational KPIs using Power BI  
-- **💸 Startup Budget Forecasting**  
-  Creating 12-month forecasts, burn rate analysis, and cash runway models in Excel  
-- **🏷️ Product Line Profitability Tracker**  
-  Identifying the most profitable products and improving decision-making  
-- **📊 Monthly Financial Summary Reports**  
-  Automating business reports in Excel for easy executive insights
 
 ---
 
 🛠️ **Tools I Use**
-- 💼 Excel (modeling, formulas, pivot tables, DCFs)
-- 📊 Power BI (interactive dashboards, DAX)
-- 📚 Basic Financial Modeling & Valuation techniques
+- Excel (modeling, formulas, pivot tables, DCFs)
+- Power BI (interactive dashboards, DAX)
+- Basic Financial Modeling & Valuation techniques
 
 ---
 
