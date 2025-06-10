@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Akash</h1>
+<h3 align="center">Aspiring Financial Analyst | Power BI Enthusiast | Excel Wizard</h3>
 
-<!--
-**AkashParit/AkashParit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+💡 **About Me**  
+I'm deeply interested in how businesses grow, spend, and succeed — and I love bringing clarity to that story through numbers. I'm currently building hands-on projects in **financial analysis**, **corporate finance**, and **data visualization**, all using tools that drive real-world decision making: **Power BI** and **Excel**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📊 **Finance Projects I'm Working On**
+- **📈 KPI Dashboard for a Retail Business**  
+  Visualizing sales, margins, and operational KPIs using Power BI  
+- **💸 Startup Budget Forecasting**  
+  Creating 12-month forecasts, burn rate analysis, and cash runway models in Excel  
+- **🏷️ Product Line Profitability Tracker**  
+  Identifying the most profitable products and improving decision-making  
+- **📊 Monthly Financial Summary Reports**  
+  Automating business reports in Excel for easy executive insights
+
+---
+
+🛠️ **Tools I Use**
+- 💼 Excel (modeling, formulas, pivot tables, DCFs)
+- 📊 Power BI (interactive dashboards, DAX)
+- 📚 Basic Financial Modeling & Valuation techniques
+
+---
+
+📚 **Currently Learning**
+- Scenario/sensitivity analysis in Excel  
+- Building dynamic dashboards in Power BI  
+- Deepening my understanding of corporate finance principles
+
+---
+
+📫 **Let's Connect**
+Find me on [LinkedIn](https://www.linkedin.com/in/akash-parit-616771187/)  
+Or check out my projects right here on GitHub — feedback and ideas are always welcome!
+
+---
+
+✨ _“Behind every great business is a great analyst who made sense of the chaos.”_
