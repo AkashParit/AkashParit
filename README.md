@@ -8,9 +8,11 @@ I'm deeply interested in how businesses grow, spend, and succeed and I love brin
 
 ---
 
-📊 **Finance Projects I'm Working On**
+📊 **Finance Projects**
 - **KPI Dashboard for a Retail Business**  
-  Visualizing sales, margins, and operational KPIs using Power BI  
+  Visualizing sales, margins, and operational KPIs using Power BI
+
+- **Build a Dynamic 5-Year Financial Model in Excel with Scenario Analysis (Step-by-Step Guide)**
 
 ---
 
